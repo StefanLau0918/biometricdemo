@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BiometricDemo</string>
+
+    <string name="touch_2_auth">触摸传感器以验证指纹</string>
+    <string name="biometric_dialog_state_failed">验证失败,请重试</string>
+    <string name="biometric_dialog_state_error">验证失败,请使用账号密码登录</string>
+    <string name="biometric_dialog_state_succeeded">验证成功</string>
+    <string name="title">验证指纹</string>
+    <string name="use_password">使用账号密码登录</string>
+</resources>
